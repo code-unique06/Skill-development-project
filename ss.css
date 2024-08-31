@@ -1,0 +1,45 @@
+.main h1{
+    color:rgb(251, 248, 248);
+    padding: 50px;
+    background:linear-gradient(45deg, red, blue);;
+    justify-content: space-between;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    
+}
+
+.main img{
+    border-radius: 50%;
+    position: absolute;
+    top: 35px;
+    left: 30px;
+    justify-content: space-between;
+}
+
+.conn{
+    padding:100px;
+    background-color: aqua;
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center;
+    height: 280px;
+    width: 700px;
+    margin-left: 300px;
+
+}
+
+.conn h2{
+    font-size: 30px;
+
+}
+
+.conn h3{
+    padding: 20px;
+    background-color: #Ffff00;
+    width: 50px;
+    height: 5px;
+    margin-top: 50px;
+    margin-left: 5px;
+    border-radius: 50px;
+
+}
